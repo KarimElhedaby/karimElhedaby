@@ -11,8 +11,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Senior Software Engineer . 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Senior Android Engineer At Atos. 
+- 👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Java, Kotlin, or anything related to android development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my linkedIn at https://www.linkedin.com/in/karim-elhedaby/ to see some of the projects I've worked on.
@@ -20,20 +20,18 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/karim-elhedaby/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="hhttps://t.me/kelhedaby" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/karim-elhedaby/" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Elhedaby-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/karimElgh" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Elhedaby-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![Android](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Java](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-05122A?style=flat&logo=mobile-development&logoColor=007ACC)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=563D7C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarimElhedaby&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+
